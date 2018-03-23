@@ -9,5 +9,13 @@ public class Demo {
 	public void git() { 
 		System.out.println("get ·½·¨");
 	}
+	
+	public void dev() {
+		System.out.println("dev batch...");
+	}
+	
+	public void dev2() {
+		System.out.println("dev batch...");
+	}
 
 }
