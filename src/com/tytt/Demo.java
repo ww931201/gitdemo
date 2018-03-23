@@ -18,4 +18,8 @@ public class Demo {
 		System.out.println("dev batch...");
 	}
 
+	public void dev3() {
+		System.out.println("dev batch...");
+	}
+
 }
