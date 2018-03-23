@@ -3,9 +3,9 @@ package com.tytt;
 public class Demo {
 	
 	public static void main(String[] args) {
-		System.out.println("test"); 
-		System.out.println("conflict"); 
-		System.out.println("谁搞事情");  
+		System.out.println("test");  
+		System.out.println("master and conflict");
+		System.out.println("master and conflict 搞事情 hahhah");
 	}
 	
 	public void git() { 
